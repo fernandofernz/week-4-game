@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/e3/39/5d/e3395dd00144bec87a45f74f1f0e6c51.png");
+}
+
+#instructions{
+    background: #efefefef;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+#numberToGuess{
+    margin-top: 20px;
+    background: white;
+    text-align: center;
+    padding: 10px;
+}
+#stats{
+    background: #efefefef;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+}
+#diamonds{
+    margin-top: 40px;
+
+}
+#totalScore{
+
+    background: white;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 25px;
+    padding: 10px;
+}
+h1{
+    background: #efefefef;
+    text-align: center;
+    padding: 10px;
+}
